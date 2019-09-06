@@ -1,4 +1,0 @@
-hi this is s3 bucket file
-2222
-updating.....................1
-
